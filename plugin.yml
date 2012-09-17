@@ -1,0 +1,7 @@
+name: MobShooter
+main: com.github.anon232.MobShooter.MobShooter
+version: 0.0.1
+commands:
+  ms:
+    description: Sets bow arrow as an entity
+    usage: /ms mobname 
